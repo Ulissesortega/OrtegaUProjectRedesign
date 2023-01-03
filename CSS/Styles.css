@@ -23,6 +23,9 @@ body{
     text-align: center;
 }
 
+.colgap{
+    column-gap: 5px;
+}
 /* Gallery */
 /* Where to Find Us */
 /* About */
