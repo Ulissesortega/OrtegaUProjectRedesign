@@ -1,4 +1,8 @@
-
+/* Body */
+body{
+    background-color: black;
+    color: white;
+}
 
 /* Navbar */
 .nvbg {
@@ -21,3 +25,11 @@
 /* Where to Find Us */
 /* About */
 /* Footer */
+.footerformat{
+    background-color: #E99950;
+    color: white;
+}
+
+#footer{
+    margin-top: auto;
+}
