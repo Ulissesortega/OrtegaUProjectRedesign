@@ -1,17 +1,23 @@
+
+
 /* Navbar */
 .nvbg {
     background-color: #E99950;
 }
 
-    .navbar-nav>li {
-        padding-left: 30px;
-        padding-right: 30px;
-    }
+.navbar-nav > li{
+    padding-left:30px;
+    padding-right:30px;
+  }
 
-    /* Hero Image */
-    /* Title */
-    /* Menu */
-    /* Gallery */
-    /* Where to Find Us */
-    /* About */
-    /* Footer */
+/* Hero Image */
+/* Title */
+/* Menu */
+#Menu ul li{
+    list-style-type: none;
+    text-decoration: none;
+}
+/* Gallery */
+/* Where to Find Us */
+/* About */
+/* Footer */
