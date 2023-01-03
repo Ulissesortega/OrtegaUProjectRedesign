@@ -20,7 +20,9 @@ body{
 #Menu ul li{
     list-style-type: none;
     text-decoration: none;
+    text-align: center;
 }
+
 /* Gallery */
 /* Where to Find Us */
 /* About */
