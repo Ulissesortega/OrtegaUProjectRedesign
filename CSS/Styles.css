@@ -24,7 +24,9 @@ body{
 }
 
 .colgap{
-    column-gap: 5px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
 }
 /* Gallery */
 /* Where to Find Us */
