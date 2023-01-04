@@ -22,7 +22,11 @@ body{
     text-decoration: none;
 }
 
-
+.colgap{
+    -webkit-column-gap: normal;
+    margin-inline: 1rem;
+    
+}
 
 
 /* Gallery */
