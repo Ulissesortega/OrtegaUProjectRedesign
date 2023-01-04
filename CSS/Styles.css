@@ -15,3 +15,63 @@
     /* Where to Find Us */
     /* About */
     /* Footer */
+    
+    /* aishas css */
+   h1 {
+    color: aliceblue;
+justify-content: center;
+padding-top: 1rem;
+   }
+   h3{
+    color: rgb(253, 183, 21);
+    padding-top: 1rem;
+   }
+   body{
+    background-color: black;
+}
+.Image1{
+    width: 294px;
+    height: 214px;
+    object-fit: cover;
+    border-radius: 1rem;
+ 
+}
+.space{
+    padding-top: 3rem;
+}
+
+
+.line {
+    border: 10px solid rgb(230, 196, 45);
+    border-radius: 5px;
+  }
+ h4{
+    color: aliceblue;
+    margin-left: 1rem;
+ }
+ .number{
+  justify-content: center;
+ }
+.container{
+    width: 100%;
+}
+.Image2{
+    
+   
+    object-fit: cover;
+    width: 80%;
+    height: auto;
+}
+.Hours{
+    margin-top: 4rem;
+    color: aliceblue;
+    width: 50%;
+
+}
+.BusinessHours{
+    color: #E99950;
+    margin-top: 3rem;
+}
+.Closed{
+    color: red;
+}
