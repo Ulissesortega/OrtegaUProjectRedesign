@@ -10,8 +10,8 @@ body{
 }
 
 .navbar-nav > li{
-    padding-left:30px;
-    padding-right:30px;
+    padding-left:70px;
+    padding-right:70px;
   }
 
 /* Hero Image */
@@ -20,12 +20,11 @@ body{
 #Menu ul li{
     list-style-type: none;
     text-decoration: none;
-    text-align: center;
 }
 
-.colgap{
-    width: 95%;
-}
+
+
+
 /* Gallery */
 /* Where to Find Us */
 /* About */
