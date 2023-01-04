@@ -15,6 +15,40 @@ body{
   }
 
 /* Hero Image */
+.hero{
+    padding: 0;
+    position: relative;
+    margin-bottom: 100px;
+}
+
+body {
+    background-color: black;
+}
+
+.taco {
+    float: right;
+    height: auto;
+    width: 100%;
+
+}
+
+.titleTxt {
+    position: absolute;
+    bottom: 5px;
+    left: 50px;
+    color: hwb(0 100% 0% / 0.9);
+    font-size: 8vw;
+    font-weight: 900;
+}
+
+.titleTxt::before {
+    content: '';
+    background: #E99950;
+    display: block;
+    width: 150px;
+    height: 12px;
+    border-radius: 8px;
+}
 /* Title */
 /* Menu */
 #Menu ul li{
