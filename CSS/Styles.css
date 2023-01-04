@@ -17,7 +17,7 @@
     /* Footer */
     
     /* aishas css */
-   h1 {
+   .titlea{
     color: aliceblue;
 justify-content: center;
 padding-top: 1rem;
@@ -30,8 +30,8 @@ padding-top: 1rem;
     background-color: black;
 }
 .Image1{
-    width: 294px;
-    height: 214px;
+    width: 350px;
+    height: 296px;
     object-fit: cover;
     border-radius: 1rem;
  
