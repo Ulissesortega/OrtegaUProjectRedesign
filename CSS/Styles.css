@@ -22,7 +22,7 @@
 justify-content: center;
 padding-top: 1rem;
    }
-   h3{
+.foods{
     color: rgb(253, 183, 21);
     padding-top: 1rem;
    }
@@ -42,39 +42,44 @@ padding-top: 1rem;
 
 
 .line {
-    border: 10px solid rgb(230, 196, 45);
+    border: 10px solid rgb(255, 218, 55);
     border-radius: 5px;
   }
- h4{
+  .address{
     color: aliceblue;
     margin-left: 1rem;
  }
  .number{
   justify-content: center;
  }
-.container{
-    width: 100%;
-}
+
 .Image2{
     
-   
+   margin-left: 2rem;
     object-fit: cover;
     width: 80%;
     height: auto;
 }
 .Hours{
-    margin-top: 4rem;
+   
     color: aliceblue;
-    
+  
 
 }
 .BusinessHours{
-    color: #E99950;
+    color: #ff993a;
     margin-top: 3rem;
 }
 .Closed{
     color: red;
 }
-.doen{
-    width: 50%;
+.rounded{
+   
+     width: 60%;
+        height: 100px;
+        object-fit: cover;
+        border-radius: 1rem;
+   justify-self: center;
 }
+
+
