@@ -75,3 +75,71 @@ body {
 #footer{
     margin-top: auto;
 }
+
+.titlea{
+    color: aliceblue;
+justify-content: center;
+padding-top: 1rem;
+   }
+.foods{
+    color: rgb(253, 183, 21);
+    padding-top: 1rem;
+   }
+   body{
+    background-color: black;
+}
+.Image1{
+    width: 300px;
+    height: 296px;
+    object-fit: cover;
+    border-radius: 1rem;
+ 
+}
+.space{
+    padding-top: 3rem;
+}
+.container1{
+width: 80%;
+}
+
+
+.line {
+    border: 10px solid rgb(255, 218, 55);
+    border-radius: 5px;
+  }
+  .address{
+    color: aliceblue;
+    margin-left: 1rem;
+ }
+ .number{
+  justify-content: center;
+ }
+
+.Image2{
+    
+   margin-left: 2rem;
+    object-fit: cover;
+    width: 80%;
+    height: auto;
+}
+.Hours{
+   
+    color: aliceblue;
+  
+}
+.BusinessHours{
+    color: #ff993a;
+    margin-top: 6rem;
+  
+}
+.Closed{
+    color: red;
+}
+.rounded{
+   
+     width: 70%;
+        height: 100px;
+        object-fit: cover;
+        border-radius: 1rem;
+  align-items: center;
+}
