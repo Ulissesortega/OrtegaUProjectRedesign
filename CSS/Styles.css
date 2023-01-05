@@ -62,10 +62,23 @@ body {
     text-align:center;
 }
 
+.aboutUsTxt {
+    font-size: 1.5vw;
+}
+
+.aboutUsImg {
+    height: auto;
+    width: 30vw;
+}
+
 
 /* Gallery */
 /* Where to Find Us */
 /* About */
+.aboutUsContent {
+    display: flex;
+    justify-content: space-evenly;
+}
 /* Footer */
 .footerformat{
     background-color: #E99950;
