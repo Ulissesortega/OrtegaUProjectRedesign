@@ -30,7 +30,7 @@ padding-top: 1rem;
     background-color: black;
 }
 .Image1{
-    width: 350px;
+    width: 300px;
     height: 296px;
     object-fit: cover;
     border-radius: 1rem;
@@ -38,6 +38,9 @@ padding-top: 1rem;
 }
 .space{
     padding-top: 3rem;
+}
+.container1{
+width: 80%;
 }
 
 
@@ -64,22 +67,22 @@ padding-top: 1rem;
    
     color: aliceblue;
   
-
 }
 .BusinessHours{
     color: #ff993a;
-    margin-top: 3rem;
+    margin-top: 6rem;
+  
 }
 .Closed{
     color: red;
 }
 .rounded{
    
-     width: 60%;
+     width: 70%;
         height: 100px;
         object-fit: cover;
         border-radius: 1rem;
-   justify-self: center;
+  align-items: center;
 }
 
 
