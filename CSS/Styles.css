@@ -23,10 +23,6 @@ body{
     margin-bottom: 10px;
 }
 
-body {
-    background-color: black;
-}
-
 .taco {
     float: right;
     height: auto;
@@ -63,22 +59,21 @@ body {
 }
 
 .aboutUsTxt {
-    font-size: 1.5rem;
+    font-size: 1.5vw;
+    margin: 0 auto;
 }
 
 .aboutUsImg {
     height: auto;
     width: 30vw;
+    margin: 0 auto;
 }
 
 
 /* Gallery */
 /* Where to Find Us */
 /* About */
-.aboutUsContent {
-    display: flex;
-    justify-content: space-evenly;
-}
+
 /* Footer */
 .footerformat{
     background-color: #E99950;
