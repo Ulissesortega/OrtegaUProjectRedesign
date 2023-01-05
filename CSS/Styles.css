@@ -16,62 +16,81 @@ body{
     font-size: large;
   }
 
-/* Hero Image */
-.hero{
-    padding: 0;
-    position: relative;
-    margin-bottom: 20px;
-}
-
-body {
+    /* Hero Image */
+    /* Title */
+    /* Menu */
+    /* Gallery */
+    /* Where to Find Us */
+    /* About */
+    /* Footer */
+    
+    /* aishas css */
+   .titlea{
+    color: aliceblue;
+justify-content: center;
+padding-top: 1rem;
+   }
+.foods{
+    color: rgb(253, 183, 21);
+    padding-top: 1rem;
+   }
+   body{
     background-color: black;
 }
+.Image1{
+    width: 300px;
+    height: 296px;
+    object-fit: cover;
+    border-radius: 1rem;
+ 
+}
+.space{
+    padding-top: 3rem;
+}
+.container1{
+width: 80%;
+}
 
-.taco {
-    float: right;
+
+.line {
+    border: 10px solid rgb(255, 218, 55);
+    border-radius: 5px;
+  }
+  .address{
+    color: aliceblue;
+    margin-left: 1rem;
+ }
+ .number{
+  justify-content: center;
+ }
+
+.Image2{
+    
+   margin-left: 2rem;
+    object-fit: cover;
+    width: 80%;
     height: auto;
-    width: 100%;
-
 }
-
-.titleTxt {
-    position: absolute;
-    bottom: 5px;
-    left: 50px;
-    color: hwb(0 100% 0% / 0.9);
-    font-size: 8vw;
-    font-weight: 900;
+.Hours{
+   
+    color: aliceblue;
+  
 }
-
-.titleTxt::before {
-    content: '';
-    background: #E99950;
-    display: block;
-    width: 150px;
-    height: 12px;
-    border-radius: 8px;
+.BusinessHours{
+    color: #ff993a;
+    margin-top: 6rem;
+  
 }
-/* Title */
-/* Menu */
-#Menu ul li{
-    list-style-type: none;
-    text-decoration: none;
+.Closed{
+    color: red;
 }
-
-.textFormat{
-    text-align:center;
+.rounded{
+   
+     width: 70%;
+        height: 100px;
+        object-fit: cover;
+        border-radius: 1rem;
+  align-items: center;
 }
 
 
-/* Gallery */
-/* Where to Find Us */
-/* About */
-/* Footer */
-.footerformat{
-    background-color: #E99950;
-    color: white;
-}
-
-#footer{
-    margin-top: auto;
-}
