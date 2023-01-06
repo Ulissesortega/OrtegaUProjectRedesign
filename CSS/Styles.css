@@ -23,6 +23,10 @@ body{
     margin-bottom: 10px;
 }
 
+.hero-row {
+    margin: 0;
+}
+
 .taco {
     float: right;
     height: auto;
@@ -43,9 +47,9 @@ body{
     content: '';
     background: #E99950;
     display: block;
-    width: 150px;
-    height: 12px;
-    border-radius: 8px;
+    width: 10vw;
+    height: 1vw;
+    border-radius: 10px;
 }
 /* Title */
 /* Menu */
@@ -160,4 +164,24 @@ width: 80%;
     background: #E99950;
     border-radius: 6px;
 
+}
+
+@media only screen and (max-width: 992px) {
+    .aboutUsContent {
+        
+        margin: 0 auto;
+    }
+
+    .aboutUsTxt {
+        width: 90%;
+        margin: 40px auto;
+        font-size: 18px;
+    }
+
+    .aboutUsImg {
+        display: block;
+        width: 70%;
+        /* margin: 0 auto; */
+        text-align: center;
+    }
 }
